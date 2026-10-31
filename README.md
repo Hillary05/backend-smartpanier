@@ -5,7 +5,7 @@ API REST qui compare les prix de produits d'épicerie entre deux supermarchés m
 ## Contexte
 
 Projet de fin d'année académique — **HICA 2025-2026** (Projet PI).
-Backend développé par **Armel Houénou**.
+Backend développé par **Hillary KEREKOU**.
 
 ## Fonctionnalités principales
 
@@ -245,9 +245,9 @@ Il couvre l'authentification, le catalogue, les offres, les listes de courses, l
 
 ## Auteur
 
-**Armel Houénou**
+**Hillary KEREKOU**
 Élève ingénieur Data Science & IoT, SUP MTI
-[LinkedIn](https://linkedin.com/in/armelhouenou) · [GitHub](https://github.com/ArmelPremier)
+[LinkedIn](https://www.linkedin.com/in/kerekou-hillary-winny-2a0859207/) · [GitHub](https://github.com/Hillary05)
 
 ## Licence
 
