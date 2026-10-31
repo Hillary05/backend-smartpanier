@@ -1,0 +1,2299 @@
+[
+    {
+        "nom": "Noix de cajou grillées et salées JA! 150g",
+        "prix": 32.49,
+        "quantite": "150G",
+        "categorie": "Fruits secs",
+        "magasin": "MyMarket",
+        "marque": "Ja",
+        "code_normalise": "noix_cajou",
+        "qualite_score": 5,
+        "quantite_normalisee": 150,
+        "categorie_canonique": "fruits secs",
+        "nom_normalise": "noix cajou",
+        "product_key": "84fe40eae82c",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "cajou",
+            "noix"
+        ]
+    },
+    {
+        "nom": "Super Extra Mix Fancy  200g",
+        "prix": 55.15,
+        "quantite": "200G",
+        "categorie": "Fruits secs",
+        "magasin": "MyMarket",
+        "marque": "Fancy",
+        "code_normalise": "super_mix",
+        "qualite_score": 6,
+        "quantite_normalisee": 200,
+        "categorie_canonique": "fruits secs",
+        "nom_normalise": "super mix",
+        "product_key": "91df64a78e24",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "mix",
+            "super"
+        ]
+    },
+    {
+        "nom": "Pistaches Grillées Salées  Fancy  125g",
+        "prix": 55.15,
+        "quantite": "125G",
+        "categorie": "Fruits secs",
+        "magasin": "MyMarket",
+        "marque": "Fancy",
+        "code_normalise": "pistache",
+        "qualite_score": 5,
+        "quantite_normalisee": 125,
+        "categorie_canonique": "fruits secs",
+        "nom_normalise": "pistache",
+        "product_key": "ac9f844e9d47",
+        "cleaning_confidence": 85,
+        "matching_tokens": [
+            "pistache"
+        ]
+    },
+    {
+        "nom": "Pépites Noires Fancy  120g",
+        "prix": 22.75,
+        "quantite": "120G",
+        "categorie": "Fruits secs",
+        "magasin": "MyMarket",
+        "marque": "Fancy",
+        "code_normalise": "pepites_noires",
+        "qualite_score": 5,
+        "quantite_normalisee": 120,
+        "categorie_canonique": "fruits secs",
+        "nom_normalise": "pepites noires",
+        "product_key": "ddca1e85064b",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "noires",
+            "pepites"
+        ]
+    },
+    {
+        "nom": "Noix de Cajou Grillées et Salées Fancy  125g",
+        "prix": 46.75,
+        "quantite": "125G",
+        "categorie": "Fruits secs",
+        "magasin": "MyMarket",
+        "marque": "Fancy",
+        "code_normalise": "noix_cajou",
+        "qualite_score": 5,
+        "quantite_normalisee": 125,
+        "categorie_canonique": "fruits secs",
+        "nom_normalise": "noix cajou",
+        "product_key": "84fe40eae82c",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "cajou",
+            "noix"
+        ]
+    },
+    {
+        "nom": "Noix de Cajou Fumées Fancy  125g",
+        "prix": 53.95,
+        "quantite": "125G",
+        "categorie": "Fruits secs",
+        "magasin": "MyMarket",
+        "marque": "Fancy",
+        "code_normalise": "noix_cajou",
+        "qualite_score": 5,
+        "quantite_normalisee": 125,
+        "categorie_canonique": "fruits secs",
+        "nom_normalise": "noix cajou",
+        "product_key": "84fe40eae82c",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "cajou",
+            "noix"
+        ]
+    },
+    {
+        "nom": "Cacahuètes Enrobées Goût Pizza Fancy 120g",
+        "prix": 22.75,
+        "quantite": "120G",
+        "categorie": "Fruits secs",
+        "magasin": "MyMarket",
+        "marque": "Fancy",
+        "code_normalise": "cacahuete_enrobees_pizza",
+        "qualite_score": 5,
+        "quantite_normalisee": 120,
+        "categorie_canonique": "fruits secs",
+        "nom_normalise": "cacahuete enrobees pizza",
+        "product_key": "b9b1c2322e72",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "cacahuete",
+            "enrobees",
+            "pizza"
+        ]
+    },
+    {
+        "nom": "Cacahuètes Enrobées Goût Barbecue  Fancy 120g",
+        "prix": 22.75,
+        "quantite": "120G",
+        "categorie": "Fruits secs",
+        "magasin": "MyMarket",
+        "marque": "Fancy",
+        "code_normalise": "cacahuete_enrobees_barbecue",
+        "qualite_score": 5,
+        "quantite_normalisee": 120,
+        "categorie_canonique": "fruits secs",
+        "nom_normalise": "cacahuete enrobees barbecue",
+        "product_key": "6c19253c3484",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "barbecue",
+            "cacahuete",
+            "enrobees"
+        ]
+    },
+    {
+        "nom": "Cacahuètes Enrobées au Thym Fancy 120g",
+        "prix": 22.75,
+        "quantite": "120G",
+        "categorie": "Fruits secs",
+        "magasin": "MyMarket",
+        "marque": "Fancy",
+        "code_normalise": "cacahuete_enrobees_thym",
+        "qualite_score": 5,
+        "quantite_normalisee": 120,
+        "categorie_canonique": "fruits secs",
+        "nom_normalise": "cacahuete enrobees thym",
+        "product_key": "db24a74f4704",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "cacahuete",
+            "enrobees",
+            "thym"
+        ]
+    },
+    {
+        "nom": "Cacahuètes Enrobées au Maïs Fancy 120g",
+        "prix": 22.75,
+        "quantite": "120G",
+        "categorie": "Fruits secs",
+        "magasin": "MyMarket",
+        "marque": "Fancy",
+        "code_normalise": "cacahuete_enrobees_mais",
+        "qualite_score": 5,
+        "quantite_normalisee": 120,
+        "categorie_canonique": "fruits secs",
+        "nom_normalise": "cacahuete enrobees mais",
+        "product_key": "89db59d0e39f",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "cacahuete",
+            "enrobees",
+            "mais"
+        ]
+    },
+    {
+        "nom": "Cacahuètes Enrobées au Fromage Fancy 120g",
+        "prix": 22.75,
+        "quantite": "120G",
+        "categorie": "Fruits secs",
+        "magasin": "MyMarket",
+        "marque": "Fancy",
+        "code_normalise": "cacahuete_enrobees_fromage",
+        "qualite_score": 5,
+        "quantite_normalisee": 120,
+        "categorie_canonique": "fruits secs",
+        "nom_normalise": "cacahuete enrobees fromage",
+        "product_key": "709f5a5e1b41",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "cacahuete",
+            "enrobees",
+            "fromage"
+        ]
+    },
+    {
+        "nom": "Cacahuètes enrobées au chili 120g Fancy",
+        "prix": 22.75,
+        "quantite": "120G",
+        "categorie": "Fruits secs",
+        "magasin": "MyMarket",
+        "marque": "Fancy",
+        "code_normalise": "cacahuete_enrobees_chili",
+        "qualite_score": 5,
+        "quantite_normalisee": 120,
+        "categorie_canonique": "fruits secs",
+        "nom_normalise": "cacahuete enrobees chili",
+        "product_key": "89733e84ef09",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "cacahuete",
+            "chili",
+            "enrobees"
+        ]
+    },
+    {
+        "nom": "Amandes Fumées Fancy 120g",
+        "prix": 53.4,
+        "quantite": "120G",
+        "categorie": "Fruits secs",
+        "magasin": "MyMarket",
+        "marque": "Fancy",
+        "code_normalise": "amande",
+        "qualite_score": 5,
+        "quantite_normalisee": 120,
+        "categorie_canonique": "fruits secs",
+        "nom_normalise": "amande",
+        "product_key": "c4c2cd4e205a",
+        "cleaning_confidence": 85,
+        "matching_tokens": [
+            "amande"
+        ]
+    },
+    {
+        "nom": "Pépites Blanches Fancy 150g",
+        "prix": 44.35,
+        "quantite": "150G",
+        "categorie": "Fruits secs",
+        "magasin": "MyMarket",
+        "marque": "Fancy",
+        "code_normalise": "pepites_blanches",
+        "qualite_score": 5,
+        "quantite_normalisee": 150,
+        "categorie_canonique": "fruits secs",
+        "nom_normalise": "pepites blanches",
+        "product_key": "ba69b4d0edb3",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "blanches",
+            "pepites"
+        ]
+    },
+    {
+        "nom": "Dattes  Deglet Nour de Tunisie Al Badr 1 Kg",
+        "prix": 60.0,
+        "quantite": "1 KG",
+        "categorie": "Fruits secs",
+        "magasin": "MyMarket",
+        "marque": "Al Badr",
+        "code_normalise": "datte_deglet_nour_tunisie",
+        "qualite_score": 5,
+        "quantite_normalisee": 1000,
+        "categorie_canonique": "fruits secs",
+        "nom_normalise": "datte deglet nour tunisie",
+        "product_key": "f9f090988b1a",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "datte",
+            "deglet",
+            "nour",
+            "tunisie"
+        ]
+    },
+    {
+        "nom": "Figues séchées  1Kg",
+        "prix": 135.0,
+        "quantite": "1KG",
+        "categorie": "Fruits secs",
+        "magasin": "MyMarket",
+        "marque": null,
+        "code_normalise": "figue",
+        "qualite_score": 5,
+        "quantite_normalisee": 1000,
+        "categorie_canonique": "fruits secs",
+        "nom_normalise": "figue",
+        "product_key": "502b29a619d7",
+        "cleaning_confidence": 85,
+        "matching_tokens": [
+            "figue"
+        ]
+    },
+    {
+        "nom": "Cacahuètes Grillées & Saées Alasto 150 g",
+        "prix": 44.0,
+        "quantite": "150 G",
+        "categorie": "Fruits secs",
+        "magasin": "MyMarket",
+        "marque": null,
+        "code_normalise": "cacahuete_saees_alasto",
+        "qualite_score": 5,
+        "quantite_normalisee": 150,
+        "categorie_canonique": "fruits secs",
+        "nom_normalise": "cacahuete saees alasto",
+        "product_key": "a436fb839ba4",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "alasto",
+            "cacahuete",
+            "saees"
+        ]
+    },
+    {
+        "nom": "Cerises Séchées et Sucrées Alesto  150 g",
+        "prix": 45.5,
+        "quantite": "150 G",
+        "categorie": "Fruits secs",
+        "magasin": "MyMarket",
+        "marque": "Alesto",
+        "code_normalise": "cerise_sucrees",
+        "qualite_score": 5,
+        "quantite_normalisee": 150,
+        "categorie_canonique": "fruits secs",
+        "nom_normalise": "cerise sucrees",
+        "product_key": "693ceee84dd9",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "cerise",
+            "sucrees"
+        ]
+    },
+    {
+        "nom": "Pistache Grillées & Salées SERANO 150g",
+        "prix": 60.45,
+        "quantite": "150G",
+        "categorie": "Fruits secs",
+        "magasin": "MyMarket",
+        "marque": "Serano",
+        "code_normalise": "pistache",
+        "qualite_score": 5,
+        "quantite_normalisee": 150,
+        "categorie_canonique": "fruits secs",
+        "nom_normalise": "pistache",
+        "product_key": "ac9f844e9d47",
+        "cleaning_confidence": 85,
+        "matching_tokens": [
+            "pistache"
+        ]
+    },
+    {
+        "nom": "Cocktail de Noix Nobles Grillées & Salées SERANO 150G",
+        "prix": 51.41,
+        "quantite": "150G",
+        "categorie": "Fruits secs",
+        "magasin": "MyMarket",
+        "marque": "Serano",
+        "code_normalise": "cocktail_noix_nobles",
+        "qualite_score": 5,
+        "quantite_normalisee": 150,
+        "categorie_canonique": "fruits secs",
+        "nom_normalise": "cocktail noix nobles",
+        "product_key": "2541adc3278e",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "cocktail",
+            "nobles",
+            "noix"
+        ]
+    },
+    {
+        "nom": "Amandes Grillées et Salées SERANO 150g",
+        "prix": 51.41,
+        "quantite": "150G",
+        "categorie": "Fruits secs",
+        "magasin": "MyMarket",
+        "marque": "Serano",
+        "code_normalise": "amande",
+        "qualite_score": 5,
+        "quantite_normalisee": 150,
+        "categorie_canonique": "fruits secs",
+        "nom_normalise": "amande",
+        "product_key": "c4c2cd4e205a",
+        "cleaning_confidence": 85,
+        "matching_tokens": [
+            "amande"
+        ]
+    },
+    {
+        "nom": "Datte Medjhool 500g",
+        "prix": 109.25,
+        "quantite": "500G",
+        "categorie": "Fruits secs",
+        "magasin": "MyMarket",
+        "marque": null,
+        "code_normalise": "datte_medjhool",
+        "qualite_score": 5,
+        "quantite_normalisee": 500,
+        "categorie_canonique": "fruits secs",
+        "nom_normalise": "datte medjhool",
+        "product_key": "3ea4441201f0",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "datte",
+            "medjhool"
+        ]
+    },
+    {
+        "nom": "Bai De Goji 100 g",
+        "prix": 29.0,
+        "quantite": "100 G",
+        "categorie": "Fruits secs",
+        "magasin": "MyMarket",
+        "marque": null,
+        "code_normalise": "bai_goji",
+        "qualite_score": 5,
+        "quantite_normalisee": 100,
+        "categorie_canonique": "fruits secs",
+        "nom_normalise": "bai goji",
+        "product_key": "45163819734f",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "bai",
+            "goji"
+        ]
+    },
+    {
+        "nom": "Graines de Sésame Dorée  500 g",
+        "prix": 36.0,
+        "quantite": "500 G",
+        "categorie": "Épices",
+        "magasin": "MyMarket",
+        "marque": null,
+        "code_normalise": "graines_sesame",
+        "qualite_score": 5,
+        "quantite_normalisee": 500,
+        "categorie_canonique": "epices",
+        "nom_normalise": "graines sesame",
+        "product_key": "2bf815d31478",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "graines",
+            "sesame"
+        ]
+    },
+    {
+        "nom": "Graines de Sésame Beldi Propres 500g",
+        "prix": 45.0,
+        "quantite": "500G",
+        "categorie": "Épices",
+        "magasin": "MyMarket",
+        "marque": null,
+        "code_normalise": "graines_sesame_beldi_propres",
+        "qualite_score": 5,
+        "quantite_normalisee": 500,
+        "categorie_canonique": "epices",
+        "nom_normalise": "graines sesame beldi propres",
+        "product_key": "80002ad98adf",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "beldi",
+            "graines",
+            "propres",
+            "sesame"
+        ]
+    },
+    {
+        "nom": "Sel de mer fin en boite verseuse La Baleine 600G",
+        "prix": 19.95,
+        "quantite": "600G",
+        "categorie": "Épices",
+        "magasin": "MyMarket",
+        "marque": "Baleine",
+        "code_normalise": "sel_mer_fin_verseuse",
+        "qualite_score": 5,
+        "quantite_normalisee": 600,
+        "categorie_canonique": "epices",
+        "nom_normalise": "sel mer fin verseuse",
+        "product_key": "6459379521ae",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "fin",
+            "mer",
+            "sel",
+            "verseuse"
+        ]
+    },
+    {
+        "nom": "Pruneaux Secs Oncle Sam 250g",
+        "prix": 43.8,
+        "quantite": "250G",
+        "categorie": "Épices",
+        "magasin": "MyMarket",
+        "marque": "Oncle",
+        "code_normalise": "pruneaux_sam",
+        "qualite_score": 5,
+        "quantite_normalisee": 250,
+        "categorie_canonique": "epices",
+        "nom_normalise": "pruneaux sam",
+        "product_key": "9f5a5fd3d016",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "pruneaux",
+            "sam"
+        ]
+    },
+    {
+        "nom": "Thym Gaya 80G",
+        "prix": 20.94,
+        "quantite": "80G",
+        "categorie": "Épices",
+        "magasin": "MyMarket",
+        "marque": "Gaya",
+        "code_normalise": "thym",
+        "qualite_score": 5,
+        "quantite_normalisee": 80,
+        "categorie_canonique": "epices",
+        "nom_normalise": "thym",
+        "product_key": "461260ecd2f2",
+        "cleaning_confidence": 85,
+        "matching_tokens": [
+            "thym"
+        ]
+    },
+    {
+        "nom": "Ail Semoule Ducros 60g",
+        "prix": 26.9,
+        "quantite": "60G",
+        "categorie": "Épices",
+        "magasin": "MyMarket",
+        "marque": "Ducros",
+        "code_normalise": "ail_semoule",
+        "qualite_score": 5,
+        "quantite_normalisee": 60,
+        "categorie_canonique": "epices",
+        "nom_normalise": "ail semoule",
+        "product_key": "7079687b979b",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "ail",
+            "semoule"
+        ]
+    },
+    {
+        "nom": "Piment Doux Du Chef 250G",
+        "prix": 11.84,
+        "quantite": "250G",
+        "categorie": "Épices",
+        "magasin": "MyMarket",
+        "marque": null,
+        "code_normalise": "piment_doux",
+        "qualite_score": 5,
+        "quantite_normalisee": 250,
+        "categorie_canonique": "epices",
+        "nom_normalise": "piment doux",
+        "product_key": "fa07081a1aa0",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "doux",
+            "piment"
+        ]
+    },
+    {
+        "nom": "Piment Fort Moulu Du Chef 250G",
+        "prix": 13.18,
+        "quantite": "250G",
+        "categorie": "Épices",
+        "magasin": "MyMarket",
+        "marque": null,
+        "code_normalise": "piment_fort",
+        "qualite_score": 5,
+        "quantite_normalisee": 250,
+        "categorie_canonique": "epices",
+        "nom_normalise": "piment fort",
+        "product_key": "f923c3cb147f",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "fort",
+            "piment"
+        ]
+    },
+    {
+        "nom": "Curcuma Moulu Du Chef 250G",
+        "prix": 13.9,
+        "quantite": "250G",
+        "categorie": "Épices",
+        "magasin": "MyMarket",
+        "marque": null,
+        "code_normalise": "curcuma",
+        "qualite_score": 5,
+        "quantite_normalisee": 250,
+        "categorie_canonique": "epices",
+        "nom_normalise": "curcuma",
+        "product_key": "059d3585fc04",
+        "cleaning_confidence": 85,
+        "matching_tokens": [
+            "curcuma"
+        ]
+    },
+    {
+        "nom": "Poivre Noir Moulu Du Chef 250G",
+        "prix": 26.26,
+        "quantite": "250G",
+        "categorie": "Épices",
+        "magasin": "MyMarket",
+        "marque": null,
+        "code_normalise": "poivre_noir",
+        "qualite_score": 5,
+        "quantite_normalisee": 250,
+        "categorie_canonique": "epices",
+        "nom_normalise": "poivre noir",
+        "product_key": "dfff7589f9c8",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "noir",
+            "poivre"
+        ]
+    },
+    {
+        "nom": "Gingembre Moulu Du Chef 250G",
+        "prix": 19.4,
+        "quantite": "250G",
+        "categorie": "Épices",
+        "magasin": "MyMarket",
+        "marque": null,
+        "code_normalise": "gingembre",
+        "qualite_score": 5,
+        "quantite_normalisee": 250,
+        "categorie_canonique": "epices",
+        "nom_normalise": "gingembre",
+        "product_key": "53d83450aaae",
+        "cleaning_confidence": 85,
+        "matching_tokens": [
+            "gingembre"
+        ]
+    },
+    {
+        "nom": "Cumin Moulu Du Chef 250G",
+        "prix": 16.5,
+        "quantite": "250G",
+        "categorie": "Épices",
+        "magasin": "MyMarket",
+        "marque": null,
+        "code_normalise": "cumin",
+        "qualite_score": 5,
+        "quantite_normalisee": 250,
+        "categorie_canonique": "epices",
+        "nom_normalise": "cumin",
+        "product_key": "26a76f7ff551",
+        "cleaning_confidence": 85,
+        "matching_tokens": [
+            "cumin"
+        ]
+    },
+    {
+        "nom": "Poivre Blanc Moulu Du Chef 250G",
+        "prix": 47.95,
+        "quantite": "250G",
+        "categorie": "Épices",
+        "magasin": "MyMarket",
+        "marque": null,
+        "code_normalise": "poivre_blanc",
+        "qualite_score": 5,
+        "quantite_normalisee": 250,
+        "categorie_canonique": "epices",
+        "nom_normalise": "poivre blanc",
+        "product_key": "66e007d7614a",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "blanc",
+            "poivre"
+        ]
+    },
+    {
+        "nom": "Laurier Bladeren Feuilles entières Ducros 17g",
+        "prix": 26.25,
+        "quantite": "17G",
+        "categorie": "Épices",
+        "magasin": "MyMarket",
+        "marque": "Ducros",
+        "code_normalise": "laurier_bladeren_feuilles_entieres",
+        "qualite_score": 5,
+        "quantite_normalisee": 17,
+        "categorie_canonique": "epices",
+        "nom_normalise": "laurier bladeren feuilles entieres",
+        "product_key": "efe10af9c241",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "bladeren",
+            "entieres",
+            "feuilles",
+            "laurier"
+        ]
+    },
+    {
+        "nom": "Origan Ducros 10g",
+        "prix": 19.9,
+        "quantite": "10G",
+        "categorie": "Épices",
+        "magasin": "MyMarket",
+        "marque": "Ducros",
+        "code_normalise": "origan",
+        "qualite_score": 5,
+        "quantite_normalisee": 10,
+        "categorie_canonique": "epices",
+        "nom_normalise": "origan",
+        "product_key": "828b618db991",
+        "cleaning_confidence": 85,
+        "matching_tokens": [
+            "origan"
+        ]
+    },
+    {
+        "nom": "Echalote Ducros 26g",
+        "prix": 29.4,
+        "quantite": "26G",
+        "categorie": "Épices",
+        "magasin": "MyMarket",
+        "marque": "Ducros",
+        "code_normalise": "echalote",
+        "qualite_score": 5,
+        "quantite_normalisee": 26,
+        "categorie_canonique": "epices",
+        "nom_normalise": "echalote",
+        "product_key": "e8e3576c04e0",
+        "cleaning_confidence": 85,
+        "matching_tokens": [
+            "echalote"
+        ]
+    },
+    {
+        "nom": "Basilic Ducros 12g",
+        "prix": 15.1,
+        "quantite": "12G",
+        "categorie": "Épices",
+        "magasin": "MyMarket",
+        "marque": "Ducros",
+        "code_normalise": "basilic",
+        "qualite_score": 5,
+        "quantite_normalisee": 12,
+        "categorie_canonique": "epices",
+        "nom_normalise": "basilic",
+        "product_key": "b61eb0eced25",
+        "cleaning_confidence": 85,
+        "matching_tokens": [
+            "basilic"
+        ]
+    },
+    {
+        "nom": "Gros Sel de mer Beros 1Kg",
+        "prix": 13.8,
+        "quantite": "1KG",
+        "categorie": "Épices",
+        "magasin": "MyMarket",
+        "marque": "Beros",
+        "code_normalise": "gros_sel_mer",
+        "qualite_score": 5,
+        "quantite_normalisee": 1000,
+        "categorie_canonique": "epices",
+        "nom_normalise": "gros sel mer",
+        "product_key": "10961b559b35",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "gros",
+            "mer",
+            "sel"
+        ]
+    },
+    {
+        "nom": "Sel Liquide Spray Cerebos 175ml",
+        "prix": 17.52,
+        "quantite": "175ML",
+        "categorie": "Épices",
+        "magasin": "MyMarket",
+        "marque": "Cerebos",
+        "code_normalise": "sel_liquide_spray",
+        "qualite_score": 5,
+        "quantite_normalisee": 175,
+        "categorie_canonique": "epices",
+        "nom_normalise": "sel liquide spray",
+        "product_key": "ef979e4b1f9c",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "liquide",
+            "sel",
+            "spray"
+        ]
+    },
+    {
+        "nom": "Curry Gaya 220g",
+        "prix": 29.95,
+        "quantite": "220G",
+        "categorie": "Épices",
+        "magasin": "MyMarket",
+        "marque": "Gaya",
+        "code_normalise": "curry",
+        "qualite_score": 5,
+        "quantite_normalisee": 220,
+        "categorie_canonique": "epices",
+        "nom_normalise": "curry",
+        "product_key": "41db8cf958be",
+        "cleaning_confidence": 85,
+        "matching_tokens": [
+            "curry"
+        ]
+    },
+    {
+        "nom": "Abricot Sec Denia 250g",
+        "prix": 69.57,
+        "quantite": "250G",
+        "categorie": "Épices",
+        "magasin": "MyMarket",
+        "marque": "Denia",
+        "code_normalise": "abricot",
+        "qualite_score": 5,
+        "quantite_normalisee": 250,
+        "categorie_canonique": "epices",
+        "nom_normalise": "abricot",
+        "product_key": "8f78a2d613d3",
+        "cleaning_confidence": 85,
+        "matching_tokens": [
+            "abricot"
+        ]
+    },
+    {
+        "nom": "Pruneaux Denia SuperGéant 250g",
+        "prix": 43.8,
+        "quantite": "250G",
+        "categorie": "Épices",
+        "magasin": "MyMarket",
+        "marque": "Denia",
+        "code_normalise": "pruneaux_supergeant",
+        "qualite_score": 5,
+        "quantite_normalisee": 250,
+        "categorie_canonique": "epices",
+        "nom_normalise": "pruneaux supergeant",
+        "product_key": "ba032544534e",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "pruneaux",
+            "supergeant"
+        ]
+    },
+    {
+        "nom": "Curcuma Moulu Rosana 100g",
+        "prix": 11.28,
+        "quantite": "100G",
+        "categorie": "Épices",
+        "magasin": "MyMarket",
+        "marque": "Rosana",
+        "code_normalise": "curcuma",
+        "qualite_score": 5,
+        "quantite_normalisee": 100,
+        "categorie_canonique": "epices",
+        "nom_normalise": "curcuma",
+        "product_key": "059d3585fc04",
+        "cleaning_confidence": 85,
+        "matching_tokens": [
+            "curcuma"
+        ]
+    },
+    {
+        "nom": "Huile d'olive vierge courant Sfassif 1/2L",
+        "prix": 27.95,
+        "quantite": "2L",
+        "categorie": "Huiles",
+        "magasin": "MyMarket",
+        "marque": "Sfassif",
+        "code_normalise": "huile_olive",
+        "qualite_score": 6,
+        "quantite_normalisee": 2000,
+        "categorie_canonique": "huiles",
+        "nom_normalise": "huile olive",
+        "product_key": "414e723f34ad",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "huile",
+            "olive"
+        ]
+    },
+    {
+        "nom": "Vinaigrette au Citron Ayala 500 ml",
+        "prix": 10.49,
+        "quantite": "500 ML",
+        "categorie": "Huiles",
+        "magasin": "MyMarket",
+        "marque": "Ayala",
+        "code_normalise": "vinaigrette_citron",
+        "qualite_score": 5,
+        "quantite_normalisee": 500,
+        "categorie_canonique": "huiles",
+        "nom_normalise": "vinaigrette citron",
+        "product_key": "082e6d86391a",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "citron",
+            "vinaigrette"
+        ]
+    },
+    {
+        "nom": "Huile d'olive vierge courant Sfassif 1L",
+        "prix": 47.95,
+        "quantite": "1L",
+        "categorie": "Huiles",
+        "magasin": "MyMarket",
+        "marque": "Sfassif",
+        "code_normalise": "huile_olive",
+        "qualite_score": 6,
+        "quantite_normalisee": 1000,
+        "categorie_canonique": "huiles",
+        "nom_normalise": "huile olive",
+        "product_key": "414e723f34ad",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "huile",
+            "olive"
+        ]
+    },
+    {
+        "nom": "Huile d'olive vierge extra, extraction à froid Bouteille en verre Sfassif 25CL",
+        "prix": 34.95,
+        "quantite": "25CL",
+        "categorie": "Huiles",
+        "magasin": "MyMarket",
+        "marque": "Sfassif",
+        "code_normalise": "huile_olive_extraction_froid",
+        "qualite_score": 7,
+        "quantite_normalisee": 250,
+        "categorie_canonique": "huiles",
+        "nom_normalise": "huile olive extraction froid",
+        "product_key": "be4d57b6b2b1",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "extraction",
+            "froid",
+            "huile",
+            "olive"
+        ]
+    },
+    {
+        "nom": "Huile d'olive vierge extra, extraction à froid bouteille en verre Sfassif 50CL",
+        "prix": 61.95,
+        "quantite": "50CL",
+        "categorie": "Huiles",
+        "magasin": "MyMarket",
+        "marque": "Sfassif",
+        "code_normalise": "huile_olive_extraction_froid",
+        "qualite_score": 7,
+        "quantite_normalisee": 500,
+        "categorie_canonique": "huiles",
+        "nom_normalise": "huile olive extraction froid",
+        "product_key": "be4d57b6b2b1",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "extraction",
+            "froid",
+            "huile",
+            "olive"
+        ]
+    },
+    {
+        "nom": "Vinaigre de cidre Star 500ML",
+        "prix": 27.95,
+        "quantite": "500ML",
+        "categorie": "Huiles",
+        "magasin": "MyMarket",
+        "marque": "Star",
+        "code_normalise": "vinaigre_cidre",
+        "qualite_score": 5,
+        "quantite_normalisee": 500,
+        "categorie_canonique": "huiles",
+        "nom_normalise": "vinaigre cidre",
+        "product_key": "e50d752a4985",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "cidre",
+            "vinaigre"
+        ]
+    },
+    {
+        "nom": "Sauce vinaigrette salade au basilic Star 50Cl",
+        "prix": 17.95,
+        "quantite": "50CL",
+        "categorie": "Huiles",
+        "magasin": "MyMarket",
+        "marque": "Star",
+        "code_normalise": "sauce_vinaigrette_salade_basilic",
+        "qualite_score": 5,
+        "quantite_normalisee": 500,
+        "categorie_canonique": "huiles",
+        "nom_normalise": "sauce vinaigrette salade basilic",
+        "product_key": "0e3cf9b523f5",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "basilic",
+            "salade",
+            "sauce",
+            "vinaigrette"
+        ]
+    },
+    {
+        "nom": "Huile Olive Vierge Zaytouni 1/2 L",
+        "prix": 33.0,
+        "quantite": "2 L",
+        "categorie": "Huiles",
+        "magasin": "MyMarket",
+        "marque": "Zaytouni",
+        "code_normalise": "huile_olive",
+        "qualite_score": 6,
+        "quantite_normalisee": 2000,
+        "categorie_canonique": "huiles",
+        "nom_normalise": "huile olive",
+        "product_key": "414e723f34ad",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "huile",
+            "olive"
+        ]
+    },
+    {
+        "nom": "Huile Olive Vierge Zaytouni 1L",
+        "prix": 63.5,
+        "quantite": "1L",
+        "categorie": "Huiles",
+        "magasin": "MyMarket",
+        "marque": "Zaytouni",
+        "code_normalise": "huile_olive",
+        "qualite_score": 6,
+        "quantite_normalisee": 1000,
+        "categorie_canonique": "huiles",
+        "nom_normalise": "huile olive",
+        "product_key": "414e723f34ad",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "huile",
+            "olive"
+        ]
+    },
+    {
+        "nom": "Huile Spécial friture Hala Chef  5L",
+        "prix": 89.9,
+        "quantite": "5L",
+        "categorie": "Huiles",
+        "magasin": "MyMarket",
+        "marque": "Hala",
+        "code_normalise": "huile_friture",
+        "qualite_score": 5,
+        "quantite_normalisee": 5000,
+        "categorie_canonique": "huiles",
+        "nom_normalise": "huile friture",
+        "product_key": "b1aa24e7569d",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "friture",
+            "huile"
+        ]
+    },
+    {
+        "nom": "Huile Spécial Friture Hala Chef 2L",
+        "prix": 36.5,
+        "quantite": "2L",
+        "categorie": "Huiles",
+        "magasin": "MyMarket",
+        "marque": "Hala",
+        "code_normalise": "huile_friture",
+        "qualite_score": 5,
+        "quantite_normalisee": 2000,
+        "categorie_canonique": "huiles",
+        "nom_normalise": "huile friture",
+        "product_key": "b1aa24e7569d",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "friture",
+            "huile"
+        ]
+    },
+    {
+        "nom": "Huile 100% Tournesol Hala 2L",
+        "prix": 37.0,
+        "quantite": "2L",
+        "categorie": "Huiles",
+        "magasin": "MyMarket",
+        "marque": "Hala",
+        "code_normalise": "huile_100_tournesol",
+        "qualite_score": 5,
+        "quantite_normalisee": 2000,
+        "categorie_canonique": "huiles",
+        "nom_normalise": "huile tournesol",
+        "product_key": "1a500b0abe50",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "huile",
+            "tournesol"
+        ]
+    },
+    {
+        "nom": "Huile 100% Tournesol Hala 5L",
+        "prix": 91.69,
+        "quantite": "5L",
+        "categorie": "Huiles",
+        "magasin": "MyMarket",
+        "marque": "Hala",
+        "code_normalise": "huile_100_tournesol",
+        "qualite_score": 5,
+        "quantite_normalisee": 5000,
+        "categorie_canonique": "huiles",
+        "nom_normalise": "huile tournesol",
+        "product_key": "1a500b0abe50",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "huile",
+            "tournesol"
+        ]
+    },
+    {
+        "nom": "Huile 100% Tournesol Hala 1L",
+        "prix": 18.1,
+        "quantite": "1L",
+        "categorie": "Huiles",
+        "magasin": "MyMarket",
+        "marque": "Hala",
+        "code_normalise": "huile_100_tournesol",
+        "qualite_score": 5,
+        "quantite_normalisee": 1000,
+        "categorie_canonique": "huiles",
+        "nom_normalise": "huile tournesol",
+        "product_key": "1a500b0abe50",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "huile",
+            "tournesol"
+        ]
+    },
+    {
+        "nom": "Huile de table surchoix Hala 10L",
+        "prix": 172.5,
+        "quantite": "10L",
+        "categorie": "Huiles",
+        "magasin": "MyMarket",
+        "marque": "Hala",
+        "code_normalise": "huile_table",
+        "qualite_score": 5,
+        "quantite_normalisee": 10000,
+        "categorie_canonique": "huiles",
+        "nom_normalise": "huile table",
+        "product_key": "0690b0466bae",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "huile",
+            "table"
+        ]
+    },
+    {
+        "nom": "Huile de table surchoix Hala 8L",
+        "prix": 129.9,
+        "quantite": "8L",
+        "categorie": "Huiles",
+        "magasin": "MyMarket",
+        "marque": "Hala",
+        "code_normalise": "huile_table",
+        "qualite_score": 5,
+        "quantite_normalisee": 8000,
+        "categorie_canonique": "huiles",
+        "nom_normalise": "huile table",
+        "product_key": "0690b0466bae",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "huile",
+            "table"
+        ]
+    },
+    {
+        "nom": "Huile de table surchoix Hala 5L",
+        "prix": 80.5,
+        "quantite": "5L",
+        "categorie": "Huiles",
+        "magasin": "MyMarket",
+        "marque": "Hala",
+        "code_normalise": "huile_table",
+        "qualite_score": 5,
+        "quantite_normalisee": 5000,
+        "categorie_canonique": "huiles",
+        "nom_normalise": "huile table",
+        "product_key": "0690b0466bae",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "huile",
+            "table"
+        ]
+    },
+    {
+        "nom": "Huile de table surchoix Hala 4L",
+        "prix": 65.2,
+        "quantite": "4L",
+        "categorie": "Huiles",
+        "magasin": "MyMarket",
+        "marque": "Hala",
+        "code_normalise": "huile_table",
+        "qualite_score": 5,
+        "quantite_normalisee": 4000,
+        "categorie_canonique": "huiles",
+        "nom_normalise": "huile table",
+        "product_key": "0690b0466bae",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "huile",
+            "table"
+        ]
+    },
+    {
+        "nom": "Huile de table surchoix Hala 2L",
+        "prix": 32.9,
+        "quantite": "2L",
+        "categorie": "Huiles",
+        "magasin": "MyMarket",
+        "marque": "Hala",
+        "code_normalise": "huile_table",
+        "qualite_score": 5,
+        "quantite_normalisee": 2000,
+        "categorie_canonique": "huiles",
+        "nom_normalise": "huile table",
+        "product_key": "0690b0466bae",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "huile",
+            "table"
+        ]
+    },
+    {
+        "nom": "Huile de table surchoix Hala 1L",
+        "prix": 16.5,
+        "quantite": "1L",
+        "categorie": "Huiles",
+        "magasin": "MyMarket",
+        "marque": "Hala",
+        "code_normalise": "huile_table",
+        "qualite_score": 5,
+        "quantite_normalisee": 1000,
+        "categorie_canonique": "huiles",
+        "nom_normalise": "huile table",
+        "product_key": "0690b0466bae",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "huile",
+            "table"
+        ]
+    },
+    {
+        "nom": "Huile de table surchoix Hala 1/2L",
+        "prix": 8.9,
+        "quantite": "2L",
+        "categorie": "Huiles",
+        "magasin": "MyMarket",
+        "marque": "Hala",
+        "code_normalise": "huile_table",
+        "qualite_score": 5,
+        "quantite_normalisee": 2000,
+        "categorie_canonique": "huiles",
+        "nom_normalise": "huile table",
+        "product_key": "0690b0466bae",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "huile",
+            "table"
+        ]
+    },
+    {
+        "nom": "Huile Tartufo Bianco ( truffe ) Gemignani 250 ml",
+        "prix": 216.0,
+        "quantite": "250 ML",
+        "categorie": "Huiles",
+        "magasin": "MyMarket",
+        "marque": "Gemignani",
+        "code_normalise": "huile_tartufo_bianco_truffe",
+        "qualite_score": 7,
+        "quantite_normalisee": 250,
+        "categorie_canonique": "huiles",
+        "nom_normalise": "huile tartufo bianco truffe",
+        "product_key": "fb4c10d32836",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "bianco",
+            "huile",
+            "tartufo",
+            "truffe"
+        ]
+    },
+    {
+        "nom": "Huile d'olive extra vierge OLINIA 4L",
+        "prix": 627.0,
+        "quantite": "4L",
+        "categorie": "Huiles",
+        "magasin": "MyMarket",
+        "marque": "Olinia",
+        "code_normalise": "huile_olive",
+        "qualite_score": 7,
+        "quantite_normalisee": 4000,
+        "categorie_canonique": "huiles",
+        "nom_normalise": "huile olive",
+        "product_key": "414e723f34ad",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "huile",
+            "olive"
+        ]
+    },
+    {
+        "nom": "Pate Fusilli Sans Gluten Schär 250g",
+        "prix": 20.6,
+        "quantite": "250G",
+        "categorie": "Pâtes",
+        "magasin": "MyMarket",
+        "marque": null,
+        "code_normalise": "pate_fusilli_sans_gluten_schar",
+        "qualite_score": 6,
+        "quantite_normalisee": 250,
+        "categorie_canonique": "feculents",
+        "nom_normalise": "pate fusilli sans gluten schar",
+        "product_key": "93bd3ff2d612",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "fusilli",
+            "gluten",
+            "pate",
+            "sans",
+            "schar"
+        ]
+    },
+    {
+        "nom": "Nouilles Instantanées Harmony 250g",
+        "prix": 23.1,
+        "quantite": "250G",
+        "categorie": "Pâtes",
+        "magasin": "MyMarket",
+        "marque": "Harmony",
+        "code_normalise": "nouilles_instantanees",
+        "qualite_score": 5,
+        "quantite_normalisee": 250,
+        "categorie_canonique": "feculents",
+        "nom_normalise": "nouilles instantanees",
+        "product_key": "2d67a3439418",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "instantanees",
+            "nouilles"
+        ]
+    },
+    {
+        "nom": "Vermicelle de Chine Jessy's 250g",
+        "prix": 29.95,
+        "quantite": "250G",
+        "categorie": "Pâtes",
+        "magasin": "MyMarket",
+        "marque": null,
+        "code_normalise": "vermicelle_chine_jessy",
+        "qualite_score": 5,
+        "quantite_normalisee": 250,
+        "categorie_canonique": "feculents",
+        "nom_normalise": "vermicelle chine jessy",
+        "product_key": "94faf297d6b1",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "chine",
+            "jessy",
+            "vermicelle"
+        ]
+    },
+    {
+        "nom": "Spaghetti N°5 Panzani 500 g",
+        "prix": 25.29,
+        "quantite": "500 G",
+        "categorie": "Pâtes",
+        "magasin": "MyMarket",
+        "marque": "Panzani",
+        "code_normalise": "spaghetti_ndeg5",
+        "qualite_score": 5,
+        "quantite_normalisee": 500,
+        "categorie_canonique": "feculents",
+        "nom_normalise": "spaghetti",
+        "product_key": "cee858b5105c",
+        "cleaning_confidence": 85,
+        "matching_tokens": [
+            "spaghetti"
+        ]
+    },
+    {
+        "nom": "Linguine Panzani 500 g",
+        "prix": 24.7,
+        "quantite": "500 G",
+        "categorie": "Pâtes",
+        "magasin": "MyMarket",
+        "marque": "Panzani",
+        "code_normalise": "linguine",
+        "qualite_score": 5,
+        "quantite_normalisee": 500,
+        "categorie_canonique": "feculents",
+        "nom_normalise": "linguine",
+        "product_key": "ee2c7ca61d4d",
+        "cleaning_confidence": 85,
+        "matching_tokens": [
+            "linguine"
+        ]
+    },
+    {
+        "nom": "Mini Penne Panzani 500 g",
+        "prix": 29.3,
+        "quantite": "500 G",
+        "categorie": "Pâtes",
+        "magasin": "MyMarket",
+        "marque": "Panzani",
+        "code_normalise": "penne",
+        "qualite_score": 5,
+        "quantite_normalisee": 500,
+        "categorie_canonique": "feculents",
+        "nom_normalise": "penne",
+        "product_key": "32f9f1d6ca9c",
+        "cleaning_confidence": 85,
+        "matching_tokens": [
+            "penne"
+        ]
+    },
+    {
+        "nom": "Mini Farfalle Panzani 500 g",
+        "prix": 21.11,
+        "quantite": "500 G",
+        "categorie": "Pâtes",
+        "magasin": "MyMarket",
+        "marque": "Panzani",
+        "code_normalise": "farfalle",
+        "qualite_score": 5,
+        "quantite_normalisee": 500,
+        "categorie_canonique": "feculents",
+        "nom_normalise": "farfalle",
+        "product_key": "f16840360a03",
+        "cleaning_confidence": 85,
+        "matching_tokens": [
+            "farfalle"
+        ]
+    },
+    {
+        "nom": "Fusilli Panzani 500 g",
+        "prix": 28.7,
+        "quantite": "500 G",
+        "categorie": "Pâtes",
+        "magasin": "MyMarket",
+        "marque": "Panzani",
+        "code_normalise": "fusilli",
+        "qualite_score": 5,
+        "quantite_normalisee": 500,
+        "categorie_canonique": "feculents",
+        "nom_normalise": "fusilli",
+        "product_key": "edb09ff178de",
+        "cleaning_confidence": 85,
+        "matching_tokens": [
+            "fusilli"
+        ]
+    },
+    {
+        "nom": "Penne Rigate Panzani 500 g",
+        "prix": 28.7,
+        "quantite": "500 G",
+        "categorie": "Pâtes",
+        "magasin": "MyMarket",
+        "marque": "Panzani",
+        "code_normalise": "penne",
+        "qualite_score": 5,
+        "quantite_normalisee": 500,
+        "categorie_canonique": "feculents",
+        "nom_normalise": "penne",
+        "product_key": "32f9f1d6ca9c",
+        "cleaning_confidence": 85,
+        "matching_tokens": [
+            "penne"
+        ]
+    },
+    {
+        "nom": "Farfalle Panzani 500 g",
+        "prix": 21.11,
+        "quantite": "500 G",
+        "categorie": "Pâtes",
+        "magasin": "MyMarket",
+        "marque": "Panzani",
+        "code_normalise": "farfalle",
+        "qualite_score": 5,
+        "quantite_normalisee": 500,
+        "categorie_canonique": "feculents",
+        "nom_normalise": "farfalle",
+        "product_key": "f16840360a03",
+        "cleaning_confidence": 85,
+        "matching_tokens": [
+            "farfalle"
+        ]
+    },
+    {
+        "nom": "Chifferini Panzani 500 g",
+        "prix": 21.11,
+        "quantite": "500 G",
+        "categorie": "Pâtes",
+        "magasin": "MyMarket",
+        "marque": "Panzani",
+        "code_normalise": "chifferini",
+        "qualite_score": 5,
+        "quantite_normalisee": 500,
+        "categorie_canonique": "feculents",
+        "nom_normalise": "chifferini",
+        "product_key": "1dbac7cc81a5",
+        "cleaning_confidence": 85,
+        "matching_tokens": [
+            "chifferini"
+        ]
+    },
+    {
+        "nom": "Serpentini Panzani 500 g",
+        "prix": 21.11,
+        "quantite": "500 G",
+        "categorie": "Pâtes",
+        "magasin": "MyMarket",
+        "marque": "Panzani",
+        "code_normalise": "serpentini",
+        "qualite_score": 5,
+        "quantite_normalisee": 500,
+        "categorie_canonique": "feculents",
+        "nom_normalise": "serpentini",
+        "product_key": "45fea8177d6b",
+        "cleaning_confidence": 85,
+        "matching_tokens": [
+            "serpentini"
+        ]
+    },
+    {
+        "nom": "Capellini N°1 Panzani 500 g",
+        "prix": 24.79,
+        "quantite": "500 G",
+        "categorie": "Pâtes",
+        "magasin": "MyMarket",
+        "marque": "Panzani",
+        "code_normalise": "capellini_ndeg1",
+        "qualite_score": 5,
+        "quantite_normalisee": 500,
+        "categorie_canonique": "feculents",
+        "nom_normalise": "capellini",
+        "product_key": "fed12a120bd1",
+        "cleaning_confidence": 85,
+        "matching_tokens": [
+            "capellini"
+        ]
+    },
+    {
+        "nom": "Vermicelle De Riz Jessy's 375g",
+        "prix": 55.14,
+        "quantite": "375G",
+        "categorie": "Pâtes",
+        "magasin": "MyMarket",
+        "marque": null,
+        "code_normalise": "vermicelle_riz_jessy",
+        "qualite_score": 5,
+        "quantite_normalisee": 375,
+        "categorie_canonique": "feculents",
+        "nom_normalise": "vermicelle riz jessy",
+        "product_key": "267b61218ca6",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "jessy",
+            "riz",
+            "vermicelle"
+        ]
+    },
+    {
+        "nom": "Vermicelle de Chine Jessy's 100g",
+        "prix": 9.2,
+        "quantite": "100G",
+        "categorie": "Pâtes",
+        "magasin": "MyMarket",
+        "marque": null,
+        "code_normalise": "vermicelle_chine_jessy",
+        "qualite_score": 5,
+        "quantite_normalisee": 100,
+        "categorie_canonique": "feculents",
+        "nom_normalise": "vermicelle chine jessy",
+        "product_key": "94faf297d6b1",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "chine",
+            "jessy",
+            "vermicelle"
+        ]
+    },
+    {
+        "nom": "Tagliatelle Panzani 500 g",
+        "prix": 36.91,
+        "quantite": "500 G",
+        "categorie": "Pâtes",
+        "magasin": "MyMarket",
+        "marque": "Panzani",
+        "code_normalise": "tagliatelle",
+        "qualite_score": 5,
+        "quantite_normalisee": 500,
+        "categorie_canonique": "feculents",
+        "nom_normalise": "tagliatelle",
+        "product_key": "3b14b521efff",
+        "cleaning_confidence": 85,
+        "matching_tokens": [
+            "tagliatelle"
+        ]
+    },
+    {
+        "nom": "Cannelloni Panzani 250 g",
+        "prix": 41.99,
+        "quantite": "250 G",
+        "categorie": "Pâtes",
+        "magasin": "MyMarket",
+        "marque": "Panzani",
+        "code_normalise": "cannelloni",
+        "qualite_score": 5,
+        "quantite_normalisee": 250,
+        "categorie_canonique": "feculents",
+        "nom_normalise": "cannelloni",
+        "product_key": "e157a79bd072",
+        "cleaning_confidence": 85,
+        "matching_tokens": [
+            "cannelloni"
+        ]
+    },
+    {
+        "nom": "Riz Risotto Cigala 1kg",
+        "prix": 39.58,
+        "quantite": "1KG",
+        "categorie": "Riz",
+        "magasin": "MyMarket",
+        "marque": "Cigala",
+        "code_normalise": "riz",
+        "qualite_score": 5,
+        "quantite_normalisee": 1000,
+        "categorie_canonique": "feculents",
+        "nom_normalise": "riz",
+        "product_key": "0de2da88f687",
+        "cleaning_confidence": 85,
+        "matching_tokens": [
+            "riz"
+        ]
+    },
+    {
+        "nom": "Galettes de Riz Quinoa sans gluten Bjorg 130g",
+        "prix": 39.95,
+        "quantite": "130G",
+        "categorie": "Riz",
+        "magasin": "MyMarket",
+        "marque": "Bjorg",
+        "code_normalise": "galettes_riz_quinoa_sans_gluten",
+        "qualite_score": 7,
+        "quantite_normalisee": 130,
+        "categorie_canonique": "feculents",
+        "nom_normalise": "galettes riz quinoa sans gluten",
+        "product_key": "b79212bf3961",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "galettes",
+            "gluten",
+            "quinoa",
+            "riz",
+            "sans"
+        ]
+    },
+    {
+        "nom": "Riz étuvé de Thaïlande Caprice 5kg",
+        "prix": 79.0,
+        "quantite": "5KG",
+        "categorie": "Riz",
+        "magasin": "MyMarket",
+        "marque": "Caprice",
+        "code_normalise": "riz_thailande",
+        "qualite_score": 5,
+        "quantite_normalisee": 5000,
+        "categorie_canonique": "feculents",
+        "nom_normalise": "riz thailande",
+        "product_key": "a508b9a5f5f8",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "riz",
+            "thailande"
+        ]
+    },
+    {
+        "nom": "Quinoa decile Tipiak boite 2 sachet x 120G",
+        "prix": 45.95,
+        "quantite": "120G",
+        "categorie": "Riz",
+        "magasin": "MyMarket",
+        "marque": "Tipiak",
+        "code_normalise": "quinoa_decile",
+        "qualite_score": 6,
+        "quantite_normalisee": 120,
+        "categorie_canonique": "feculents",
+        "nom_normalise": "quinoa decile",
+        "product_key": "b72d5916e5e2",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "decile",
+            "quinoa"
+        ]
+    },
+    {
+        "nom": "Bakliyat Pulses Brun Misso 1kg",
+        "prix": 45.0,
+        "quantite": "1KG",
+        "categorie": "Riz",
+        "magasin": "MyMarket",
+        "marque": null,
+        "code_normalise": "bakliyat_pulses_brun_misso",
+        "qualite_score": 5,
+        "quantite_normalisee": 1000,
+        "categorie_canonique": "feculents",
+        "nom_normalise": "bakliyat pulses brun misso",
+        "product_key": "94d103f99b5e",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "bakliyat",
+            "brun",
+            "misso",
+            "pulses"
+        ]
+    },
+    {
+        "nom": "Bakliyat Pulses Misso 1kg",
+        "prix": 45.0,
+        "quantite": "1KG",
+        "categorie": "Riz",
+        "magasin": "MyMarket",
+        "marque": null,
+        "code_normalise": "bakliyat_pulses_misso",
+        "qualite_score": 5,
+        "quantite_normalisee": 1000,
+        "categorie_canonique": "feculents",
+        "nom_normalise": "bakliyat pulses misso",
+        "product_key": "ab7ac22f3e47",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "bakliyat",
+            "misso",
+            "pulses"
+        ]
+    },
+    {
+        "nom": "Panko Bread Crumbs Bon Chef  1Kg",
+        "prix": 70.0,
+        "quantite": "1KG",
+        "categorie": "Riz",
+        "magasin": "MyMarket",
+        "marque": null,
+        "code_normalise": "panko_bread_crumbs_bon",
+        "qualite_score": 5,
+        "quantite_normalisee": 1000,
+        "categorie_canonique": "feculents",
+        "nom_normalise": "panko bread crumbs bon",
+        "product_key": "29dca181f52e",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "bon",
+            "bread",
+            "crumbs",
+            "panko"
+        ]
+    },
+    {
+        "nom": "Melange Riz Quinoa AMGALITA 350 G",
+        "prix": 34.97,
+        "quantite": "350 G",
+        "categorie": "Riz",
+        "magasin": "MyMarket",
+        "marque": null,
+        "code_normalise": "melange_riz_quinoa_amgalita",
+        "qualite_score": 6,
+        "quantite_normalisee": 350,
+        "categorie_canonique": "feculents",
+        "nom_normalise": "melange riz quinoa amgalita",
+        "product_key": "eebdfc4f664b",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "amgalita",
+            "melange",
+            "quinoa",
+            "riz"
+        ]
+    },
+    {
+        "nom": "Le Blé Tendre Ebly 500 g",
+        "prix": 39.5,
+        "quantite": "500 G",
+        "categorie": "Riz",
+        "magasin": "MyMarket",
+        "marque": "Ebly",
+        "code_normalise": "ble_tendre",
+        "qualite_score": 5,
+        "quantite_normalisee": 500,
+        "categorie_canonique": "feculents",
+        "nom_normalise": "ble tendre",
+        "product_key": "d9e34cb10ba4",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "ble",
+            "tendre"
+        ]
+    },
+    {
+        "nom": "Le Blé Tendre Ebly 1 kg",
+        "prix": 79.5,
+        "quantite": "1 KG",
+        "categorie": "Riz",
+        "magasin": "MyMarket",
+        "marque": "Ebly",
+        "code_normalise": "ble_tendre",
+        "qualite_score": 5,
+        "quantite_normalisee": 1000,
+        "categorie_canonique": "feculents",
+        "nom_normalise": "ble tendre",
+        "product_key": "d9e34cb10ba4",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "ble",
+            "tendre"
+        ]
+    },
+    {
+        "nom": "Thon en Conserve Naturel Thon Joly 85g",
+        "prix": 11.95,
+        "quantite": "85G",
+        "categorie": "Conserves",
+        "magasin": "MyMarket",
+        "marque": "Joly",
+        "code_normalise": "thon",
+        "qualite_score": 5,
+        "quantite_normalisee": 85,
+        "categorie_canonique": "conserves",
+        "nom_normalise": "thon",
+        "product_key": "fc0787641456",
+        "cleaning_confidence": 85,
+        "matching_tokens": [
+            "thon"
+        ]
+    },
+    {
+        "nom": "Maïs Doux en Grains Madila 130 g",
+        "prix": 7.2,
+        "quantite": "130 G",
+        "categorie": "Conserves",
+        "magasin": "MyMarket",
+        "marque": "Madila",
+        "code_normalise": "mais_doux",
+        "qualite_score": 5,
+        "quantite_normalisee": 130,
+        "categorie_canonique": "conserves",
+        "nom_normalise": "mais doux",
+        "product_key": "2e5a7c4fe853",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "doux",
+            "mais"
+        ]
+    },
+    {
+        "nom": "Bonite en Conserve Sifa Huile Végétale 1,7 kg",
+        "prix": 129.9,
+        "quantite": "1,7 KG",
+        "categorie": "Conserves",
+        "magasin": "MyMarket",
+        "marque": "Sifa",
+        "code_normalise": "huile",
+        "qualite_score": 5,
+        "quantite_normalisee": 1700,
+        "categorie_canonique": "conserves",
+        "nom_normalise": "huile",
+        "product_key": "0952717028ed",
+        "cleaning_confidence": 85,
+        "matching_tokens": [
+            "huile"
+        ]
+    },
+    {
+        "nom": "Thon Entier à la sauce tomate Carle – Pack 3 x 85 g",
+        "prix": 32.5,
+        "quantite": "85 G",
+        "categorie": "Conserves",
+        "magasin": "MyMarket",
+        "marque": "Carle",
+        "code_normalise": "thon_sauce_tomate",
+        "qualite_score": 5,
+        "quantite_normalisee": 85,
+        "categorie_canonique": "conserves",
+        "nom_normalise": "thon sauce tomate",
+        "product_key": "4f1e047ca363",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "sauce",
+            "thon",
+            "tomate"
+        ]
+    },
+    {
+        "nom": "Thon Entier  sauce tomate Carle 85 g",
+        "prix": 12.5,
+        "quantite": "85 G",
+        "categorie": "Conserves",
+        "magasin": "MyMarket",
+        "marque": "Carle",
+        "code_normalise": "thon_sauce_tomate",
+        "qualite_score": 5,
+        "quantite_normalisee": 85,
+        "categorie_canonique": "conserves",
+        "nom_normalise": "thon sauce tomate",
+        "product_key": "4f1e047ca363",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "sauce",
+            "thon",
+            "tomate"
+        ]
+    },
+    {
+        "nom": "Thon entier à l’Huile Végétale Carle 85g",
+        "prix": 12.0,
+        "quantite": "85G",
+        "categorie": "Conserves",
+        "magasin": "MyMarket",
+        "marque": "Carle",
+        "code_normalise": "thon_huile",
+        "qualite_score": 5,
+        "quantite_normalisee": 85,
+        "categorie_canonique": "conserves",
+        "nom_normalise": "thon huile",
+        "product_key": "796e642bb29d",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "huile",
+            "thon"
+        ]
+    },
+    {
+        "nom": "Filets  de sardines à l'huile d'olive Carle 115gr",
+        "prix": 12.0,
+        "quantite": "115G",
+        "categorie": "Conserves",
+        "magasin": "MyMarket",
+        "marque": "Carle",
+        "code_normalise": "sardines_huile_olive",
+        "qualite_score": 5,
+        "quantite_normalisee": 115,
+        "categorie_canonique": "conserves",
+        "nom_normalise": "sardines huile olive",
+        "product_key": "0b07206f8bcf",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "huile",
+            "olive",
+            "sardines"
+        ]
+    },
+    {
+        "nom": "Filets de maquereaux sauce tomate Carle 125gr",
+        "prix": 11.0,
+        "quantite": "125G",
+        "categorie": "Conserves",
+        "magasin": "MyMarket",
+        "marque": "Carle",
+        "code_normalise": "maquereaux_sauce_tomate",
+        "qualite_score": 5,
+        "quantite_normalisee": 125,
+        "categorie_canonique": "conserves",
+        "nom_normalise": "maquereaux sauce tomate",
+        "product_key": "049465480426",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "maquereaux",
+            "sauce",
+            "tomate"
+        ]
+    },
+    {
+        "nom": "Delmonaco maquereaux sauce tomate et piment 115gr",
+        "prix": 6.0,
+        "quantite": "115G",
+        "categorie": "Conserves",
+        "magasin": "MyMarket",
+        "marque": null,
+        "code_normalise": "delmonaco_maquereaux_sauce_tomate_piment",
+        "qualite_score": 5,
+        "quantite_normalisee": 115,
+        "categorie_canonique": "conserves",
+        "nom_normalise": "delmonaco maquereaux sauce tomate piment",
+        "product_key": "ce0c06e899cf",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "delmonaco",
+            "maquereaux",
+            "piment",
+            "sauce",
+            "tomate"
+        ]
+    },
+    {
+        "nom": "Maïs Doux Ayala Pack 3x140g",
+        "prix": 25.95,
+        "quantite": "140G",
+        "categorie": "Conserves",
+        "magasin": "MyMarket",
+        "marque": "Ayala",
+        "code_normalise": "mais_doux_3x",
+        "qualite_score": 5,
+        "quantite_normalisee": 140,
+        "categorie_canonique": "conserves",
+        "nom_normalise": "mais doux",
+        "product_key": "2e5a7c4fe853",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "doux",
+            "mais"
+        ]
+    },
+    {
+        "nom": "Asperges Blanches Coupées Extra Ayala 185g",
+        "prix": 25.95,
+        "quantite": "185G",
+        "categorie": "Conserves",
+        "magasin": "MyMarket",
+        "marque": "Ayala",
+        "code_normalise": "asperges_blanches_coupees",
+        "qualite_score": 6,
+        "quantite_normalisee": 185,
+        "categorie_canonique": "conserves",
+        "nom_normalise": "asperges blanches coupees",
+        "product_key": "45c40eadfa13",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "asperges",
+            "blanches",
+            "coupees"
+        ]
+    },
+    {
+        "nom": "Artichauts Entiers Ayala 400g",
+        "prix": 26.95,
+        "quantite": "400G",
+        "categorie": "Conserves",
+        "magasin": "MyMarket",
+        "marque": "Ayala",
+        "code_normalise": "artichauts_entiers",
+        "qualite_score": 5,
+        "quantite_normalisee": 400,
+        "categorie_canonique": "conserves",
+        "nom_normalise": "artichauts entiers",
+        "product_key": "2d433b8de0f4",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "artichauts",
+            "entiers"
+        ]
+    },
+    {
+        "nom": "Champignons Tranchés Ayala 355g",
+        "prix": 16.49,
+        "quantite": "355G",
+        "categorie": "Conserves",
+        "magasin": "MyMarket",
+        "marque": "Ayala",
+        "code_normalise": "champignons",
+        "qualite_score": 5,
+        "quantite_normalisee": 355,
+        "categorie_canonique": "conserves",
+        "nom_normalise": "champignons",
+        "product_key": "9f884757bc0a",
+        "cleaning_confidence": 85,
+        "matching_tokens": [
+            "champignons"
+        ]
+    },
+    {
+        "nom": "Pâte de Coing Membrillo Ayala 400g",
+        "prix": 13.95,
+        "quantite": "400G",
+        "categorie": "Conserves",
+        "magasin": "MyMarket",
+        "marque": "Ayala",
+        "code_normalise": "pate_coing_membrillo",
+        "qualite_score": 5,
+        "quantite_normalisee": 400,
+        "categorie_canonique": "conserves",
+        "nom_normalise": "pate coing membrillo",
+        "product_key": "c334110aa842",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "coing",
+            "membrillo",
+            "pate"
+        ]
+    },
+    {
+        "nom": "Petits Pois Réhydratés Ayala 400g",
+        "prix": 9.95,
+        "quantite": "400G",
+        "categorie": "Conserves",
+        "magasin": "MyMarket",
+        "marque": "Ayala",
+        "code_normalise": "petits_pois_rehydrates",
+        "qualite_score": 5,
+        "quantite_normalisee": 400,
+        "categorie_canonique": "conserves",
+        "nom_normalise": "petits pois rehydrates",
+        "product_key": "277b3e2777d1",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "petits",
+            "pois",
+            "rehydrates"
+        ]
+    },
+    {
+        "nom": "Tacos de Poisson en Sauce Marine Ayala 72g",
+        "prix": 19.95,
+        "quantite": "72G",
+        "categorie": "Conserves",
+        "magasin": "MyMarket",
+        "marque": "Ayala",
+        "code_normalise": "tacos_poisson_sauce_marine",
+        "qualite_score": 5,
+        "quantite_normalisee": 72,
+        "categorie_canonique": "conserves",
+        "nom_normalise": "tacos poisson sauce marine",
+        "product_key": "4ae913b5bcaa",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "marine",
+            "poisson",
+            "sauce",
+            "tacos"
+        ]
+    },
+    {
+        "nom": "Tacos de Poisson à l’Huile de Tournesol Ayala 72g",
+        "prix": 19.95,
+        "quantite": "72G",
+        "categorie": "Conserves",
+        "magasin": "MyMarket",
+        "marque": "Ayala",
+        "code_normalise": "tacos_poisson_huile_tournesol",
+        "qualite_score": 5,
+        "quantite_normalisee": 72,
+        "categorie_canonique": "conserves",
+        "nom_normalise": "tacos poisson huile tournesol",
+        "product_key": "bc18abf27e83",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "huile",
+            "poisson",
+            "tacos",
+            "tournesol"
+        ]
+    },
+    {
+        "nom": "Tacos de Poisson à l’Ail Ayala 72g",
+        "prix": 19.95,
+        "quantite": "72G",
+        "categorie": "Conserves",
+        "magasin": "MyMarket",
+        "marque": "Ayala",
+        "code_normalise": "tacos_poisson_ail",
+        "qualite_score": 5,
+        "quantite_normalisee": 72,
+        "categorie_canonique": "conserves",
+        "nom_normalise": "tacos poisson ail",
+        "product_key": "f86aee669fae",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "ail",
+            "poisson",
+            "tacos"
+        ]
+    },
+    {
+        "nom": "Pâté de Thon aux Morceaux de Thon Ayala 2x78g",
+        "prix": 23.95,
+        "quantite": "78G",
+        "categorie": "Conserves",
+        "magasin": "MyMarket",
+        "marque": "Ayala",
+        "code_normalise": "pate_thon_morceaux_2x",
+        "qualite_score": 5,
+        "quantite_normalisee": 78,
+        "categorie_canonique": "conserves",
+        "nom_normalise": "pate thon morceaux",
+        "product_key": "d3c2a80f8e42",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "morceaux",
+            "pate",
+            "thon"
+        ]
+    },
+    {
+        "nom": "Petits Calamars Farcis à l’Encre Ayala 72g",
+        "prix": 22.95,
+        "quantite": "72G",
+        "categorie": "Conserves",
+        "magasin": "MyMarket",
+        "marque": "Ayala",
+        "code_normalise": "petits_calamars_farcis_encre",
+        "qualite_score": 5,
+        "quantite_normalisee": 72,
+        "categorie_canonique": "conserves",
+        "nom_normalise": "petits calamars farcis encre",
+        "product_key": "d6c408925887",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "calamars",
+            "encre",
+            "farcis",
+            "petits"
+        ]
+    },
+    {
+        "nom": "Chipirones Farcis en Sauce Américaine Ayala 72g",
+        "prix": 23.95,
+        "quantite": "72G",
+        "categorie": "Conserves",
+        "magasin": "MyMarket",
+        "marque": "Ayala",
+        "code_normalise": "chipirones_farcis_sauce_americaine",
+        "qualite_score": 5,
+        "quantite_normalisee": 72,
+        "categorie_canonique": "conserves",
+        "nom_normalise": "chipirones farcis sauce americaine",
+        "product_key": "e15ab13ef21a",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "americaine",
+            "chipirones",
+            "farcis",
+            "sauce"
+        ]
+    },
+    {
+        "nom": "Chipirones Farcis à l’Huile de Tournesol Ayala 72g",
+        "prix": 23.95,
+        "quantite": "72G",
+        "categorie": "Conserves",
+        "magasin": "MyMarket",
+        "marque": "Ayala",
+        "code_normalise": "chipirones_farcis_huile_tournesol",
+        "qualite_score": 5,
+        "quantite_normalisee": 72,
+        "categorie_canonique": "conserves",
+        "nom_normalise": "chipirones farcis huile tournesol",
+        "product_key": "0f4ca9deb40b",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "chipirones",
+            "farcis",
+            "huile",
+            "tournesol"
+        ]
+    },
+    {
+        "nom": "Pack de 3 petites boîtes Calamars en Sauce Américaine Ayala 3x55g",
+        "prix": 26.95,
+        "quantite": "55G",
+        "categorie": "Conserves",
+        "magasin": "MyMarket",
+        "marque": "Ayala",
+        "code_normalise": "petites_boites_calamars_sauce_americaine_3x",
+        "qualite_score": 5,
+        "quantite_normalisee": 55,
+        "categorie_canonique": "conserves",
+        "nom_normalise": "petites boites calamars sauce americaine",
+        "product_key": "1d4aca64e215",
+        "cleaning_confidence": 100,
+        "matching_tokens": [
+            "americaine",
+            "boites",
+            "calamars",
+            "petites",
+            "sauce"
+        ]
+    }
+]
